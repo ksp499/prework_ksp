@@ -1,0 +1,11 @@
+1) Added a <h1> tag to header. (line 19)
+
+2) Added <p> tags to paragraphs. (line 41)
+
+3) Added brackets around image tag. (line 57)
+
+4) Added <li> tags around list items. (line 110)
+
+5) Switched the location of button section and list section. 
+
+6) Changed ids of color buttons.

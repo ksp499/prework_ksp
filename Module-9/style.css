@@ -1,0 +1,13 @@
+.styledFont {
+	color : green;
+	font-family : serif;
+	font-size: 20px;
+}
+
+#styledImage {
+	border-style: solid;
+	border-color: yellow;
+	border-width: 10px;
+	height : 300px;
+	width: 300px	;
+}
